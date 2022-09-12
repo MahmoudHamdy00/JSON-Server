@@ -1,0 +1,113 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Learn Python: The Complete Python Programming Course",
+            "createdBy": "Avinash Jain, The Codex",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Learning Python for Data Analysis and Visualization",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Python for Beginners - Learn Programming from scratch",
+            "createdBy": "Coding Faculty Solutions",
+            "price": 199,
+            "students": 7097,
+            "rating": 4.4,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Learn Python: Python for Beginners",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Become a Certified HTML, CSS, JavaScript Web Developer",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "The Complete 2020 Fullstack Web Developer Course",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Data Science: Deep Learning and Neural Networks in Python",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "1 Hour JavaScript",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Javascript for Beginners",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+       
+        {
+            "id": 5,
+            "title": "Data Science: Deep Learning and Neural Networks in Python",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Javascript for Beginners Learn by Doing Practical Exercises",
+            "createdBy": "",
+            "price": 0,
+            "students": 0,
+            "rating": 0,
+            "img":"https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+        }
+    ]
+}
